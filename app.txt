@@ -1,1 +1,2 @@
 hello world from master, now from bug, now from feature
+hello world from master, now from bug
